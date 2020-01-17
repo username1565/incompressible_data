@@ -22,8 +22,11 @@ This is a binary data, where number of TRUE bits, equals or semi-equals of FALSE
 **INCOMPRESSIBLE DATA** can be source data, random data, encrypted data, etc...
 **INCOMPRESSIBLE DATA** this is data, where probablity of one bit equal or semi-equal of probablity null bit.
 
-If the number of one bits can be reduced for data, where 50% ones and 50% nulls,
+If the number of TRUE bits can be reduced for binary data, where 50% one bits and 50% null bits,
 then Shannon information entropy will be reduced, and **incompressible data** can be transformed to **compressible data**.
 
 The following code, can open the way to reversive reduce shannon entropy for any random data.
 Need to test this, and play with it.
+
+Maybe this can be programmed to realize recursive compression of any data,
+including *Big Data* of genomes, video/audio, webcam-traffic, random data, encrypted data, etc...
