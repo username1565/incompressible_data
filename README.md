@@ -28,5 +28,5 @@ then Shannon information entropy will be reduced, and **incompressible data** ca
 The following code, can open the way to reversive reduce shannon entropy for any random data.
 Need to test this, and play with it.
 
-Maybe this can be programmed to realize recursive compression of any data,
-including *Big Data* of genomes, video/audio, webcam-traffic, random data, encrypted data, etc...
+Maybe this can be programmed to realize recursive compression of any **INCOMPRESSIBLE DATA**,
+including *Big Data* of genomes, video/audio, webcam-traffic, even random data, and even encrypted data, etc...
